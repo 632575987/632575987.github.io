@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>SQL on 文档</title>
-        <link>https://632575987.github.io:1313/zh-cn/tags/sql/</link>
+        <link>http://localhost:1313/zh-cn/tags/sql/</link>
         <description>Recent content in SQL on 文档</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Fountain</copyright>
-        <lastBuildDate>Fri, 10 May 2024 09:32:50 +0800</lastBuildDate><atom:link href="https://632575987.github.io:1313/zh-cn/tags/sql/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 10 May 2024 09:32:50 +0800</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/sql/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>PolStudio</title>
-        <link>https://632575987.github.io:1313/zh-cn/p/polstudio/</link>
+        <link>http://localhost:1313/zh-cn/p/polstudio/</link>
         <pubDate>Fri, 10 May 2024 09:32:50 +0800</pubDate>
         
-        <guid>https://632575987.github.io:1313/zh-cn/p/polstudio/</guid>
-        <description>&lt;img src="https://632575987.github.io:1313/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post PolStudio" /&gt;&lt;h3 id=&#34;简介&#34;&gt;
+        <guid>http://localhost:1313/zh-cn/p/polstudio/</guid>
+        <description>&lt;img src="http://localhost:1313/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post PolStudio" /&gt;&lt;h3 id=&#34;简介&#34;&gt;
     &lt;a href=&#34;#%e7%ae%80%e4%bb%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     简介
 &lt;/h3&gt;&lt;p&gt;PolStudio 是一款高效、便捷的数据库查询/脚本管理工具，专注于帮助您轻松保存、查询和执行 SQL 语句或脚本代码。&lt;/p&gt;
@@ -50,7 +50,7 @@
     &lt;a href=&#34;#%e5%bf%ab%e9%80%9f%e5%85%a5%e9%97%a8&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     快速入门
 &lt;/h3&gt;&lt;p&gt;您可以在其他数据库查询工具（对于SQL，可以使用DBeaver；对于Powershell和Python，可以使用visual studio code）中将已验证过的语句运行成功后保存在这里，以备下次快速执行。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://632575987.github.io:1313/mdimg/img1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/mdimg/img1.png&#34;
 	
 	
 	
@@ -63,7 +63,7 @@
 &lt;h3 id=&#34;新建语句&#34;&gt;
     &lt;a href=&#34;#%e6%96%b0%e5%bb%ba%e8%af%ad%e5%8f%a5&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     新建语句
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://632575987.github.io:1313/mdimg/ps-gd-new.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/mdimg/ps-gd-new.png&#34;
 	
 	
 	
@@ -101,7 +101,7 @@
 &lt;h3 id=&#34;管理项目界面&#34;&gt;
     &lt;a href=&#34;#%e7%ae%a1%e7%90%86%e9%a1%b9%e7%9b%ae%e7%95%8c%e9%9d%a2&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
     管理项目界面
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://632575987.github.io:1313/mdimg/ps-gd-s.png&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/mdimg/ps-gd-s.png&#34;
 	
 	
 	
@@ -953,7 +953,7 @@ IP地址、端口号、用户名、密码等修改为您要连接的数据库。
 &lt;blockquote&gt;
 &lt;p&gt;对于按钮图标路径，图片需放置在应用数据目录中，可点击左侧边栏中的第二个按钮（设置⚙️）查看或手动管理。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://632575987.github.io:1313/mdimg/ps-gd-m.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/mdimg/ps-gd-m.png&#34;
 	
 	
 	

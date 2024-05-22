@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Document</title>
-        <link>https://632575987.github.io:1313/page/</link>
+        <link>http://localhost:1313/page/</link>
         <description>Recent content in Pages on Document</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Fountain</copyright>
-        <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://632575987.github.io:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://632575987.github.io:1313/about/</link>
+        <link>http://localhost:1313/about/</link>
         <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://632575987.github.io:1313/about/</guid>
+        <guid>http://localhost:1313/about/</guid>
         <description>&lt;p&gt;Thank you for choosing my app. We are committed to providing you with the most convenient app experience. To help you use the app better, I have set up this website to provide you with comprehensive user guides, frequently asked questions, and technical support.&lt;/p&gt;
 &lt;h2 id=&#34;pick-download-and-installation&#34;&gt;
     &lt;a href=&#34;#pick-download-and-installation&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
@@ -28,18 +28,18 @@ mailto: &lt;a class=&#34;link&#34; href=&#34;mailto:legend92@live.cn&#34; &gt;le
         </item>
         <item>
         <title>Archives</title>
-        <link>https://632575987.github.io:1313/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://632575987.github.io:1313/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://632575987.github.io:1313/links/</link>
+        <link>http://localhost:1313/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://632575987.github.io:1313/links/</guid>
+        <guid>http://localhost:1313/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -71,10 +71,10 @@ mailto: &lt;a class=&#34;link&#34; href=&#34;mailto:legend92@live.cn&#34; &gt;le
         </item>
         <item>
         <title>Search</title>
-        <link>https://632575987.github.io:1313/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://632575987.github.io:1313/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         
