@@ -1,18 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Document</title>
+        <title>Categories on Welcome</title>
         <link>https://632575987.github.io/categories/</link>
-        <description>Recent content in Categories on Document</description>
+        <description>Recent content in Categories on Welcome</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Fountain</copyright>
-        <lastBuildDate>Sat, 27 Apr 2024 15:23:41 +0800</lastBuildDate><atom:link href="https://632575987.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 24 May 2024 09:32:50 +0800</lastBuildDate><atom:link href="https://632575987.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Microsoft Store</title>
         <link>https://632575987.github.io/categories/microsoft-store/</link>
-        <pubDate>Sat, 27 Apr 2024 15:23:41 +0800</pubDate>
+        <pubDate>Fri, 24 May 2024 09:32:50 +0800</pubDate>
         
         <guid>https://632575987.github.io/categories/microsoft-store/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>ScriptsManagement</title>
+        <link>https://632575987.github.io/categories/scriptsmanagement/</link>
+        <pubDate>Fri, 24 May 2024 09:32:50 +0800</pubDate>
+        
+        <guid>https://632575987.github.io/categories/scriptsmanagement/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>SQL</title>
+        <link>https://632575987.github.io/categories/sql/</link>
+        <pubDate>Fri, 24 May 2024 09:32:50 +0800</pubDate>
+        
+        <guid>https://632575987.github.io/categories/sql/</guid>
         <description></description>
         </item>
         <item>

@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Powershell on 文档</title>
+        <title>Powershell on 欢迎访问</title>
         <link>https://632575987.github.io/zh-cn/tags/powershell/</link>
-        <description>Recent content in Powershell on 文档</description>
+        <description>Recent content in Powershell on 欢迎访问</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Fountain</copyright>
-        <lastBuildDate>Fri, 10 May 2024 09:32:50 +0800</lastBuildDate><atom:link href="https://632575987.github.io/zh-cn/tags/powershell/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 24 May 2024 09:32:50 +0800</lastBuildDate><atom:link href="https://632575987.github.io/zh-cn/tags/powershell/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>PolStudio</title>
         <link>https://632575987.github.io/zh-cn/p/polstudio/</link>
-        <pubDate>Fri, 10 May 2024 09:32:50 +0800</pubDate>
+        <pubDate>Fri, 24 May 2024 09:32:50 +0800</pubDate>
         
         <guid>https://632575987.github.io/zh-cn/p/polstudio/</guid>
-        <description>&lt;img src="https://632575987.github.io/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post PolStudio" /&gt;&lt;h3 id=&#34;简介&#34;&gt;
-    &lt;a href=&#34;#%e7%ae%80%e4%bb%8b&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    简介
+        <description>&lt;img src="https://632575987.github.io/pst.jpg" alt="Featured image of post PolStudio" /&gt;&lt;h3 id=&#34;简介&#34;&gt;简介
 &lt;/h3&gt;&lt;p&gt;PolStudio 是一款高效、便捷的数据库查询/脚本管理工具，专注于帮助您轻松保存、查询和执行 SQL 语句或脚本代码。&lt;/p&gt;
-&lt;h3 id=&#34;主要功能特点&#34;&gt;
-    &lt;a href=&#34;#%e4%b8%bb%e8%a6%81%e5%8a%9f%e8%83%bd%e7%89%b9%e7%82%b9&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    主要功能特点
+&lt;h3 id=&#34;主要功能特点&#34;&gt;主要功能特点
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;语句保存与管理&lt;/strong&gt;：允许用户保存常用的 SQL 语句或脚本语句，方便随时调用和修改。通过分类和标签功能，用户可以轻松组织和管理代码库或查看历史版本。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;元数据支持&lt;/strong&gt;：允许为语句添加Markdown、Html、备注等信息。&lt;/li&gt;
@@ -28,27 +24,31 @@
 &lt;li&gt;&lt;strong&gt;安全性&lt;/strong&gt;：重视数据的安全性，数据保存在加密数据库中，确保敏感数据不被非法访问。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;集成与扩展&lt;/strong&gt;：支持与多种主流开发环境和工具集成，如 Visual Studio Code 等。同时，提供了丰富的扩展接口，允许用户根据自己的需求定制功能。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;适用场景&#34;&gt;
-    &lt;a href=&#34;#%e9%80%82%e7%94%a8%e5%9c%ba%e6%99%af&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    适用场景
+&lt;h3 id=&#34;适用场景&#34;&gt;适用场景
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;数据库管理员：轻松查找和执行已保存的 SQL 查询和脚本。&lt;/li&gt;
 &lt;li&gt;数据分析师：快速查询和分析数据，通过 PowerShell 或 Python 脚本对数据进行处理。&lt;/li&gt;
 &lt;li&gt;软件开发者：在开发过程中，保存和执行 SQL 语句，并可以查看历史版本（需添加该自定义功能）。&lt;/li&gt;
 &lt;li&gt;普通用户：如果您不会编写脚本，您可以在这里找到已经过验证的脚本或其他用户分享的脚本直接运行，实现相应的功能。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;环境要求&#34;&gt;
-    &lt;a href=&#34;#%e7%8e%af%e5%a2%83%e8%a6%81%e6%b1%82&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    环境要求
+&lt;h3 id=&#34;下载安装&#34;&gt;下载安装
+&lt;/h3&gt;&lt;script type=&#34;module&#34; src=&#34;https://get.microsoft.com/badge/ms-store-badge.bundled.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;ms-store-badge
+productid=&#34;9nlpj48cz2xt&#34;
+productname=&#34;PolStudio&#34;
+window-mode=&#34;full&#34;
+theme=&#34;auto&#34;
+language=&#34;zh-cn&#34;
+animation=&#34;on&#34;&gt;
+&lt;/ms-store-badge&gt;&lt;/p&gt;
+&lt;h3 id=&#34;环境要求&#34;&gt;环境要求
 &lt;/h3&gt;&lt;p&gt;建议根据需要安装下面的扩展程序。（在新建向导中会有相应提示官网下载链接）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Windows Terminal （建议安装，Windows11已内置）&lt;/li&gt;
 &lt;li&gt;Powershell Core&lt;/li&gt;
 &lt;li&gt;Python&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;快速入门&#34;&gt;
-    &lt;a href=&#34;#%e5%bf%ab%e9%80%9f%e5%85%a5%e9%97%a8&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    快速入门
+&lt;h3 id=&#34;快速入门&#34;&gt;快速入门
 &lt;/h3&gt;&lt;p&gt;您可以在其他数据库查询工具（对于SQL，可以使用DBeaver；对于Powershell和Python，可以使用visual studio code）中将已验证过的语句运行成功后保存在这里，以备下次快速执行。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://632575987.github.io/mdimg/img1.png&#34;
 	
@@ -60,9 +60,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;h3 id=&#34;新建语句&#34;&gt;
-    &lt;a href=&#34;#%e6%96%b0%e5%bb%ba%e8%af%ad%e5%8f%a5&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    新建语句
+&lt;h3 id=&#34;新建语句&#34;&gt;新建语句
 &lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://632575987.github.io/mdimg/ps-gd-new.png&#34;
 	
 	
@@ -98,9 +96,7 @@
 对于SQL语句，需要稍后设置数据源后方可执行查询语句。&lt;/p&gt;
 &lt;p&gt;对于Powershell和Python等脚本方法与上述类似，若您的脚本需要管理员权限，请打开向导最上方&lt;code&gt;类型&lt;/code&gt;右侧的&lt;code&gt;管理员方式运行&lt;/code&gt;开关。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;恭喜，到此您将可以在主界面左侧列表中看到刚刚新创建的项目。&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;管理项目界面&#34;&gt;
-    &lt;a href=&#34;#%e7%ae%a1%e7%90%86%e9%a1%b9%e7%9b%ae%e7%95%8c%e9%9d%a2&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    管理项目界面
+&lt;h3 id=&#34;管理项目界面&#34;&gt;管理项目界面
 &lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://632575987.github.io/mdimg/ps-gd-s.png&#34;
 	
 	
@@ -141,13 +137,9 @@
 &lt;code&gt;26&lt;/code&gt;:快速将Data中的数据导出为其他格式并打开。&lt;br&gt;
 &lt;code&gt;27&lt;/code&gt;:打印Data中的数据。&lt;br&gt;
 &lt;code&gt;28&lt;/code&gt;:将Data中的数据作为xlsx附件并附加到邮件App。请注意，此功能仅支持旧版的邮件App，如您使用的是新Outlook邮件客户端，附件将不会添加。&lt;/p&gt;
-&lt;h3 id=&#34;管理数据源&#34;&gt;
-    &lt;a href=&#34;#%e7%ae%a1%e7%90%86%e6%95%b0%e6%8d%ae%e6%ba%90&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    管理数据源
+&lt;h3 id=&#34;管理数据源&#34;&gt;管理数据源
 &lt;/h3&gt;&lt;p&gt;若要连接数据库通过SQL语句查询数据，需要设置相应的数据源及连接字符串。&lt;/p&gt;
-&lt;h4 id=&#34;支持的数据库&#34;&gt;
-    &lt;a href=&#34;#%e6%94%af%e6%8c%81%e7%9a%84%e6%95%b0%e6%8d%ae%e5%ba%93&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    ✅支持的数据库
+&lt;h4 id=&#34;支持的数据库&#34;&gt;✅支持的数据库
 &lt;/h4&gt;&lt;p&gt;以下数据库经过测试可支持：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Sybase： Adaptive Server Enterprise 16.0.03.01&lt;/li&gt;
@@ -181,12 +173,8 @@ IP地址、端口号、用户名、密码等修改为您要连接的数据库。
 在&lt;code&gt;管理数据源&lt;/code&gt;窗口中下部的编辑器中直接修改数据源。若需要暂时隐藏该数据源，可在行号前加上#号。修改完毕后点击【保存】按钮并关闭窗口。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;脚本和扩展--插件系统&#34;&gt;
-    &lt;a href=&#34;#%e8%84%9a%e6%9c%ac%e5%92%8c%e6%89%a9%e5%b1%95--%e6%8f%92%e4%bb%b6%e7%b3%bb%e7%bb%9f&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    脚本和扩展 / 插件系统
-&lt;/h3&gt;&lt;h4 id=&#34;支持的脚本语言&#34;&gt;
-    &lt;a href=&#34;#%e6%94%af%e6%8c%81%e7%9a%84%e8%84%9a%e6%9c%ac%e8%af%ad%e8%a8%80&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    支持的脚本语言
+&lt;h3 id=&#34;脚本和扩展--插件系统&#34;&gt;脚本和扩展 / 插件系统
+&lt;/h3&gt;&lt;h4 id=&#34;支持的脚本语言&#34;&gt;支持的脚本语言
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;powershell&lt;/li&gt;
 &lt;li&gt;python&lt;/li&gt;
@@ -239,13 +227,9 @@ IP地址、端口号、用户名、密码等修改为您要连接的数据库。
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;在script中，可以直接书写简单的代码。若代码量很大，可以新建一个以感叹号!开头的项目，随后将其标题填入script中以引用。&lt;br&gt;
 编辑完后点击&lt;code&gt;重载插件集&lt;/code&gt;将可以看到更新后的右键菜单。&lt;/p&gt;
-&lt;h4 id=&#34;公共插件&#34;&gt;
-    &lt;a href=&#34;#%e5%85%ac%e5%85%b1%e6%8f%92%e4%bb%b6&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    公共插件
+&lt;h4 id=&#34;公共插件&#34;&gt;公共插件
 &lt;/h4&gt;&lt;p&gt;您可以新建一个名为&lt;code&gt;#CommonAddins#&lt;/code&gt;的项目，它将在所有的项目中都可用。将在下面的示例中提到。&lt;/p&gt;
-&lt;h4 id=&#34;示例1-脚本调试文件&#34;&gt;
-    &lt;a href=&#34;#%e7%a4%ba%e4%be%8b1-%e8%84%9a%e6%9c%ac%e8%b0%83%e8%af%95%e6%96%87%e4%bb%b6&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    示例1-脚本调试文件
+&lt;h4 id=&#34;示例1-脚本调试文件&#34;&gt;示例1-脚本调试文件
 &lt;/h4&gt;&lt;p&gt;为方便调试编写脚本，我们可以添加一个功能，用来找到调试文件。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;第1步：新建标题为&lt;code&gt;#CommonAddins#&lt;/code&gt;的项目,粘贴下面的代码到源代码中并保存，如已存在该项目请修改内容将如下中括号内的数据部分添加进去：&lt;/li&gt;
@@ -291,9 +275,7 @@ IP地址、端口号、用户名、密码等修改为您要连接的数据库。
 &lt;li&gt;第4步：在资源管理器任意目录空白处粘贴文件，并使用代码编辑器如visual studio code打开。&lt;br&gt;
 可以看到app生成的脚本代码，您可以在#release code后面编写自己的代码，用于实现自己的自定义功能，功能完成后再将release code部分的代码拷贝出来用作引用项目插件使用。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;示例2-版本控制&#34;&gt;
-    &lt;a href=&#34;#%e7%a4%ba%e4%be%8b2-%e7%89%88%e6%9c%ac%e6%8e%a7%e5%88%b6&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    示例2-版本控制
+&lt;h4 id=&#34;示例2-版本控制&#34;&gt;示例2-版本控制
 &lt;/h4&gt;&lt;p&gt;接下来将演示如何添加版本控制扩展功能到所有项目中。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;第1步：安装TortoiseGit。&lt;/li&gt;
@@ -781,9 +763,7 @@ IP地址、端口号、用户名、密码等修改为您要连接的数据库。
 &lt;li&gt;第4步：重载插件集或重新打开项目，也可以重启app。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;到这里您将可以在每个项目【Data】的右键菜单中看到一个名为版本控制的功能。&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id=&#34;示例3-lua&#34;&gt;
-    &lt;a href=&#34;#%e7%a4%ba%e4%be%8b3-lua&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    示例3-Lua
+&lt;h4 id=&#34;示例3-lua&#34;&gt;示例3-Lua
 &lt;/h4&gt;&lt;p&gt;lua用于调用主程序中公开的API接口。关于更多接口内容，将在后续文档中提供。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -849,9 +829,7 @@ IP地址、端口号、用户名、密码等修改为您要连接的数据库。
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h3 id=&#34;左侧边栏&#34;&gt;
-    &lt;a href=&#34;#%e5%b7%a6%e4%be%a7%e8%be%b9%e6%a0%8f&#34; class=&#34;header-anchor&#34;&gt;#&lt;/a&gt;
-    左侧边栏
+&lt;/div&gt;&lt;h3 id=&#34;左侧边栏&#34;&gt;左侧边栏
 &lt;/h3&gt;&lt;p&gt;通常我们需要快速的执行某个powershell或python脚本，可以将其添加到左侧边栏中，之后便可以直接点击该按钮以运行。&lt;/p&gt;
 &lt;p&gt;🚩点击主界面【管理左侧边栏】按钮，若您是初次使用该功能，程序将会为您新建一条示例项目用于演示，您可在稍后修改该内容以自定义边栏；也可在语句列表的搜索栏中搜索&lt;code&gt;#LeftPanel#&lt;/code&gt;并点击&lt;code&gt;打开&lt;/code&gt;该项目然后点击工具条中的源代码按钮以修改内容。&lt;br&gt;
 让我们来看一段示例代码：&lt;/p&gt;

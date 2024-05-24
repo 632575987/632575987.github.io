@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on 文档</title>
+        <title>Tags on 欢迎访问</title>
         <link>https://632575987.github.io/zh-cn/tags/</link>
-        <description>Recent content in Tags on 文档</description>
+        <description>Recent content in Tags on 欢迎访问</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Fountain</copyright>
-        <lastBuildDate>Fri, 10 May 2024 09:32:50 +0800</lastBuildDate><atom:link href="https://632575987.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 24 May 2024 09:32:50 +0800</lastBuildDate><atom:link href="https://632575987.github.io/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Powershell</title>
         <link>https://632575987.github.io/zh-cn/tags/powershell/</link>
-        <pubDate>Fri, 10 May 2024 09:32:50 +0800</pubDate>
+        <pubDate>Fri, 24 May 2024 09:32:50 +0800</pubDate>
         
         <guid>https://632575987.github.io/zh-cn/tags/powershell/</guid>
         <description></description>
@@ -18,7 +18,7 @@
         <item>
         <title>Python</title>
         <link>https://632575987.github.io/zh-cn/tags/python/</link>
-        <pubDate>Fri, 10 May 2024 09:32:50 +0800</pubDate>
+        <pubDate>Fri, 24 May 2024 09:32:50 +0800</pubDate>
         
         <guid>https://632575987.github.io/zh-cn/tags/python/</guid>
         <description></description>
@@ -26,7 +26,7 @@
         <item>
         <title>Scripts</title>
         <link>https://632575987.github.io/zh-cn/tags/scripts/</link>
-        <pubDate>Fri, 10 May 2024 09:32:50 +0800</pubDate>
+        <pubDate>Fri, 24 May 2024 09:32:50 +0800</pubDate>
         
         <guid>https://632575987.github.io/zh-cn/tags/scripts/</guid>
         <description></description>
@@ -34,9 +34,25 @@
         <item>
         <title>SQL</title>
         <link>https://632575987.github.io/zh-cn/tags/sql/</link>
-        <pubDate>Fri, 10 May 2024 09:32:50 +0800</pubDate>
+        <pubDate>Fri, 24 May 2024 09:32:50 +0800</pubDate>
         
         <guid>https://632575987.github.io/zh-cn/tags/sql/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Policy</title>
+        <link>https://632575987.github.io/zh-cn/tags/policy/</link>
+        <pubDate>Sat, 27 Apr 2024 15:23:41 +0800</pubDate>
+        
+        <guid>https://632575987.github.io/zh-cn/tags/policy/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Privacy</title>
+        <link>https://632575987.github.io/zh-cn/tags/privacy/</link>
+        <pubDate>Sat, 27 Apr 2024 15:23:41 +0800</pubDate>
+        
+        <guid>https://632575987.github.io/zh-cn/tags/privacy/</guid>
         <description></description>
         </item>
         
